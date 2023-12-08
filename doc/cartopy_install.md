@@ -34,6 +34,7 @@ ax.add_feature(feature.LAND, color="lightgray")
 axis("off")
 ```
 which should provide the following figure:
+
 ![Polar projection](../figs/polarproj.png)
 
 The full example can be tested in the notebook [cartopy_example.ipynb](../src/cartopy_example.ipynb).
