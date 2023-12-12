@@ -1,8 +1,10 @@
 # Installation of Cartopy in Julia
 
-The instructions have been tested on a machine running under Linux (`Ubuntu 22.04.3 LTS`).
+The instructions have been tested 
+- on a machine running under Linux (`Ubuntu 22.04.3 LTS`),
+- with Julia version 1.9.4 
 
-1. Start a Jupyter session, selecting a Julia kernel (I use 1.9.4 but no need to get the last Julia release)
+1. Start a Jupyter session, selecting a Julia kernel (I
 ```bash
 jupyter-notebook
 ```
