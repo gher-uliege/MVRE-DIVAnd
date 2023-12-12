@@ -1,4 +1,11 @@
-# Installation of Cartopy in Julia
+# CPR-DINCAE documentation
+
+
+```@contents
+```
+
+
+## Installation of `Cartopy` in Julia
 
 The instructions have been tested 
 - on a machine running under Linux (`Ubuntu 22.04.3 LTS`),
@@ -37,6 +44,6 @@ axis("off")
 ```
 which should provide the following figure:
 
-![Polar projection](../figs/polarproj.png)
+![Polar projection](./figs/polarproj.png)
 
-The full example can be tested in the notebook [cartopy_example.ipynb](../src/cartopy_example.ipynb).
+The full example can be tested in the notebook [cartopy_example.ipynb](https://github.com/gher-uliege/MVRE-DIVAnd/blob/main/src/interp_mosaic_data.ipynb).

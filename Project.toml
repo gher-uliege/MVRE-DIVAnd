@@ -1,0 +1,10 @@
+name = "MVREDIVAnd"
+authors = ["Charles Troupin <ctroupin@uliege.be>"]
+uuid = "6ad3e964-98db-11ee-3cce-7bb7875c790b"
+version = "0.1.0"
+[deps]
+Conda = "8f4d0f93-b110-5947-807f-2305c1781a2d"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NCDatasets = "85f8d34a-cbdd-5861-8df4-14fed0d494ab"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+PyPlot = "d330b81b-6aea-500a-939a-2ce795aea3ee"
